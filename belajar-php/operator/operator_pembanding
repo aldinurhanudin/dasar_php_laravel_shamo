@@ -1,0 +1,15 @@
+<?php 
+$a = 4 ;
+$b = 7;
+
+$komparasi =  $a == $b ;//ini cara mengecek apaka a sama dengan b
+$komparasi1 =  $a != $b ;//not equal
+$komparasi2 = $a !== $b;// not edentiqal
+$komparasi3 = $a > $b;// lebih dari
+$komparasi3 = $a < $b;// kurang dari
+echo var_dump($komparasi);//untuk mengeluarkan output
+
+
+/**
+ * untuk belajar php operators https://www.w3schools.com/php/php_operators.asp
+ */
